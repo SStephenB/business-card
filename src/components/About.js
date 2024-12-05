@@ -2,7 +2,7 @@ export default function About() {
     return (
         <div>
             <h4>About</h4>
-            <p>Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub Abanoub is susanoub  </p>
+            <p>A motivated Systems Design Engineering student at the University of Waterloo. Passionate about programming and web development space, and strive to create innovative solutions and continuously build my skills. </p>
         </div>
     )
 }
