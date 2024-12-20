@@ -4,7 +4,7 @@ import Linkedin from "../images/linkedin-icon.svg"
 
 export default function Info() {
     return (
-        <div>
+        <div className="">
             <div className="headings">
                 <div className="img-contain"><img src={GradPhoto}></img></div>
                 <h1 className="center-text">Stephen Bassilios</h1>

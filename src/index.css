@@ -5,7 +5,7 @@
     min-height: 100vh;
     margin-inline: auto;
     border-radius: 20px;
-    color: white; /* Remove this eventually */
+    color: white;
 }
 
 img {
@@ -16,15 +16,13 @@ img {
 .img-contain {
     display: flex;
     justify-content: center;
-    /* background-image: url(./images/grad_photo.jpg);
-    background-repeat: no-repeat; */
 }
 
 .center-text {
     text-align: center;
 }
 
-h1, h2, h3, h4, p {
+.text-margin {
     margin: 0;
     margin-inline: 3rem; 
     margin-top: 0.5rem;
@@ -131,10 +129,10 @@ h2 {
 h4 {
     font-family: "Lexend", serif;
     font-optical-sizing: auto;
-    font-weight: 300;
+    font-weight: 400;
     font-style: normal;
     font-size: 20px;
-
+    margin-block: 0;
 }
 
 h3 {
