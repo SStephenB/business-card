@@ -27,9 +27,9 @@ img {
 }
 
 .text-margin {
-    margin-inline: 3rem; 
-    margin-top: 0.5rem;
+    margin: 0.5rem 3rem 0 3rem;
 }
+
 
 .d-flex {
     display: flex;
