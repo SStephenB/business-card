@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/business-card/static/css/main.bd020cf6.css",
-    "main.js": "/business-card/static/js/main.f7d9e340.js",
+    "main.js": "/business-card/static/js/main.ffef66cc.js",
     "static/media/grad_photo.jpg": "/business-card/static/media/grad_photo.4c5b70928c84232f20d8.jpg",
     "static/media/github-icon.svg": "/business-card/static/media/github-icon.97ed8e7eef60d61ca469881dd6f34511.svg",
     "static/media/linkedin-icon.svg": "/business-card/static/media/linkedin-icon.6e14aa30c107ba3cfb66ed3210aab74a.svg",
@@ -10,10 +10,10 @@
     "static/media/mail-icon.svg": "/business-card/static/media/mail-icon.636f65a6b2d48478301690d521c8a46b.svg",
     "static/media/facebook-icon.svg": "/business-card/static/media/facebook-icon.c17109c762c459ed09d1f4f40db2d241.svg",
     "main.bd020cf6.css.map": "/business-card/static/css/main.bd020cf6.css.map",
-    "main.f7d9e340.js.map": "/business-card/static/js/main.f7d9e340.js.map"
+    "main.ffef66cc.js.map": "/business-card/static/js/main.ffef66cc.js.map"
   },
   "entrypoints": [
     "static/css/main.bd020cf6.css",
-    "static/js/main.f7d9e340.js"
+    "static/js/main.ffef66cc.js"
   ]
 }
